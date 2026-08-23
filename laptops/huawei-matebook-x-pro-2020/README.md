@@ -75,7 +75,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 
 - Display menu:  
     - Brightness: 40  
-    - Display Manager -> Color Temperature: Default
+- Display Manager -> Color Temperature: Default
 
 ## Downloads
 
