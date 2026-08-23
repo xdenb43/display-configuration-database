@@ -1,8 +1,8 @@
-<!-- PAGE_STATUS: DRAFT -->
+<!-- PAGE_STATUS: OK -->
 
 # Huawei Matebook X Pro 2020 (MACHC-WAX9)   
 
-**Display panel:** JDI LPM139M422A
+Display panel: **JDI LPM139M422A**
 
 13.9-inch 3:2 LTPS display with a JDI LPM139M422A panel and wide-gamut LED backlight.
 
@@ -75,6 +75,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 
 - Display menu:  
     - Brightness: 40  
+    - Display Manager -> Color Temperature: Default
 
 ## Downloads
 
@@ -83,11 +84,11 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 > Different monitor settings (brightness, RGB gain, contrast, etc.) may reduce color accuracy.
 
 ### ICC/ICM profile
-- [ICC profile](https://xdenb43.github.io/display-configuration-database/laptops/huawei-matebook-x-pro-2020/filename.icm)
+- [ICC profile](https://xdenb43.github.io/display-configuration-database/laptops/huawei-matebook-x-pro-2020/LPM139M422A_120cdm2_D6500_2.2_M-S_XYZLUT_MTX.icm)
 
 ### Reports  
-- [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/huawei-matebook-x-pro-2020/filename.html)
-- [Verification report (PDF)](filename.pdf)
+- [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/huawei-matebook-x-pro-2020/Measurement_Report_LPM139M422A.html)
+- [Verification report (PDF)](Measurement_Report_LPM139M422A.pdf)
 
 ## Brightness response curve  
 
@@ -99,21 +100,21 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 > - Daylight: 120–140 cd/m²
 > - Bright daylight: 140–160 cd/m²
 
-![Brightness vs. Luminance](brightness_vs_luminance_JDI_LPM139M422A.png) 
+![Brightness vs. Luminance](brightness_vs_luminance_LPM139M422A.png) 
 
 | OSD Brightness (%) | Luminance (cd/m²) |
 | :----------------: | :---------------: |
 |         0          |        7          |
-|         10         |        22         |
-|         20         |        42         |
-|         30         |        76         |
-|      -> 40 <-      |     -> 121 <-     |
-|         50         |        180        |
-|         60         |        ?          |
-|         70         |        ?          |
-|         80         |        ?          |
-|         90         |        ?          |
-|         100        |        ?          |
+|         10         |        21         |
+|         20         |        41         |
+|         30         |        75         |
+|      -> 40 <-      |     -> 118 <-     |
+|         50         |        176        |
+|         60         |        244        |
+|         70         |        317        |
+|         80         |        400        |
+|         90         |        488        |
+|         100        |        584        |
 
 <p align="right">
   <a href="#table-of-contents">⬆ Top</a>
