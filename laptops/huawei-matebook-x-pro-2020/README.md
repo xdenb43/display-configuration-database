@@ -57,11 +57,11 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 ### Environment and targets
 
 **Calibration environment**
-| Parameter          | Value        |
-| ------------------ | ------------ |
-| Calibration date   | 2026-08-20   |
-| Instrument         | Spyder X     |
-| Software           | DisplayCal   |
+| Parameter        | Value              |
+| ---------------- | ------------------ |
+| Calibration date | 2026-08-23         |
+| Instrument       | Spyder X           |
+| Software         | DisplayCal 3.8.9.3 |
 
 
 **Calibration target**
