@@ -41,7 +41,7 @@ Official product page:  <https://consumer.huawei.com/qa/phones/p302/>
     - 16.7 million colors (manufacturer declared)    
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
 
 ## Daily use configuration   
@@ -63,5 +63,5 @@ The priority here is: **visual comfort → readability → luminance control →
 | Screen resolution (Разрешение экрана)        | High (Высокое)                   | Preserves the native 2340 × 1080 resolution and maximum available text and fine-detail clarity at approximately 422 ppi. Lowering the resolution provides no clear visual-comfort advantage for this use case.        |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>

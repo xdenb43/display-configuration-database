@@ -28,7 +28,7 @@ Official product page:  <https://consumer.huawei.com/ru/phones/pura80/>
 | Resolution          | 2760 × 1256                                 |
 | Pixel density       | 460 ppi                                     |
 | Backlight           | Self-emissive (OLED)                        |
-| Refresh rate        | 1–120 Hz (Adaptive LTPO)                    |
+| Refresh rate        | 1–120 Hz (adaptive LTPO)                    |
 | PWM dimming         | 1440 Hz high-frequency PWM                  |
 | Touch sampling rate | Up to 300 Hz                                |
 | Color depth         | 1.07 billion colors                         |
@@ -63,7 +63,7 @@ The priority here is: **long-term visual comfort → readability → luminance c
 | Color mode (Цвета)                           | Normal (Обычные)                 | Provides neutral color reproduction without artificially increasing saturation. This is appropriate for the Pura 80's wide-gamut OLED display.                                                                                                                |
 | Color temperature (Цветовая температура)     | Default (По умолчанию)           | Maintains the default white-point balance without introducing an unnecessary permanent warm or cool shift. There is insufficient basis to prefer a warmer or cooler setting solely for visual comfort.                                                        |
 | Smart resolution (Умное разрешение)          | OFF (Выкл.)                      | Keeps rendering at the native 2760 × 1256 resolution and eliminates dynamic resolution scaling. This provides more consistent text and interface micro-sharpness during changes in system workload and was subjectively more comfortable for you.             |
-| Refresh Rate (Частота обновления)            | 60 Hz — Fixed (Фиксированная)    | Eliminates automatic refresh-rate transitions and provides stable temporal behavior. The fixed 60 Hz configuration was subjectively more comfortable for you than Dynamic mode.                                                                               |
+| Refresh rate (Частота обновления)            | 60 Hz — Fixed (Фиксированная)    | Eliminates automatic refresh-rate transitions and provides stable temporal behavior. The fixed 60 Hz configuration was subjectively more comfortable for you than Dynamic mode.                                                                               |
 
 <p align="right">
   <a href="#table-of-contents">⬆ Toc</a>
