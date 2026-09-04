@@ -14,8 +14,8 @@ Official product page: [URL]
   - [Color characteristics](#color-characteristics)
 - [Daily use configuration](#daily-use-configuration)
   - [Recommended display settings (eye comfort)](#recommended-display-settings-eye-comfort)
-  - [Accessibility — Display & Text Size](#accessibility--display--text-size)
-  - [Accessibility — Motion](#accessibility--motion)
+  - [Accessibility — display & text size](#accessibility--display--text-size)
+  - [Accessibility — motion](#accessibility--motion)
 - [Notes](#notes)
 - [Disclaimer](#disclaimer)
 - [License](#license)
@@ -76,7 +76,7 @@ Priority: **long-term visual comfort → readability → luminance control → n
 | Bold text                   |       |        |
 | Larger text                 |       |        |
 | Button shapes               |       |        |
-| On/Off labels               |       |        |
+| On/off labels               |       |        |
 | Reduce transparency         |       |        |
 | Increase contrast           |       |        |
 | Differentiate without color |       |        |
