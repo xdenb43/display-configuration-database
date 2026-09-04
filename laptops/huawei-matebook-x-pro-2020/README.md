@@ -52,6 +52,10 @@ Official product page:  <https://consumer.huawei.com/ie/laptops/matebook-x-pro-2
 
 Color depth: 8 bit    
 
+<p align="right">
+  <a href="#table-of-contents">⬆ ToC</a>
+</p>
+
 ## Calibration  
 
 Calibration objective: **Visual comfort with reduced eye strain during prolonged use.**  
@@ -76,6 +80,10 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 
 - Display Manager -> Color Temperature: Default
 
+<p align="right">
+  <a href="#table-of-contents">⬆ ToC</a>
+</p>
+
 ## Downloads
 
 > [!IMPORTANT]  
@@ -88,6 +96,10 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 ### Reports  
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/huawei-matebook-x-pro-2020/Measurement_Report_LPM139M422A.html)
 - [Verification report (PDF)](Measurement_Report_LPM139M422A.pdf)
+
+<p align="right">
+  <a href="#table-of-contents">⬆ ToC</a>
+</p>
 
 ## Brightness response curve  
 
