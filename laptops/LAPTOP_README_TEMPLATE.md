@@ -78,9 +78,9 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 
 ## Downloads
 
-> [!IMPORTANT]
-> The ICC profile was created using the OSD settings listed above.
-> Different monitor settings (brightness, RGB gain, contrast, etc.) may reduce color accuracy.
+> [!IMPORTANT]  
+> The ICC profile was created using the OSD settings listed above.  
+> Different monitor settings (brightness, RGB gain, contrast, etc.) may reduce color accuracy.  
 
 ### ICC/ICM profile
 - [ICC profile](https://xdenb43.github.io/display-configuration-database/laptops/$DEVICE/$PANEL_120cdm2_D6500_2.2_M-S_XYZLUT_MTX.icm)
