@@ -44,7 +44,7 @@ Official product page: <https://www.hp.com/us-en/laptops/business/probook-400/pr
 
 ### Color characteristics  
 
-** Gamut coverage**
+**Gamut coverage**
 |       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
 | :---------------------: | :------------------------: | :-------------------------------: |
 | Wide Color gammut (WDC) |             -              |                 -                 |
