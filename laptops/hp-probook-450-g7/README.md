@@ -30,28 +30,33 @@ Official product page: <https://www.hp.com/us-en/laptops/business/probook-400/pr
 | ------------------ | ---------------- |
 | Screen size        | 15.6"            |
 | Panel type         | IPS              |
-| Aspect Ratio       | 16:9             |
+| Aspect ratio       | 16:9             |
 | Resolution         | 1920 × 1080      |
 | Backlight          | White LED (WLED) |
 | Refresh rate       | 60 Hz            |
 | Typical brightness | ~275 nits        |
-| Contrast Ratio     | ~900:1           |
-| Viewing Angle(H/V) | 178°(H)/178°(V)  |
+| Contrast ratio     | ~900:1           |
+| Viewing angle(H/V) | 178°(H)/178°(V)  |
 | Response time      | ~21 ms           |
 
 
 ### Color characteristics  
 
 **Gamut coverage**
-|       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
-| :---------------------: | :------------------------: | :-------------------------------: |
-| Wide Color gammut (WDC) |             -              |                 -                 |
-|          sRGB           |           ~ 58%            |              61.66%               |
-|          NTSC           |           ~ 43%            |                 -                 |
-|         DCI-P3          |           ~ 39%            |              43.99%               |
-|        Adobe-RGB        |             -              |              42.79%               |
+|      Color gamut       | Declared/known<br>coverage | Calibrated and measured<br>coverage |
+| :--------------------: | :------------------------: | :---------------------------------: |
+| Wide color gamut (WDC) |             -              |                  -                  |
+|          sRGB          |           ~ 58%            |               61.66%                |
+|          NTSC          |           ~ 43%            |                  -                  |
+|         DCI-P3         |           ~ 39%            |               43.99%                |
+|       Adobe-RGB        |             -              |               42.79%                |
    
 Color depth: 8 bit    
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
+
 
 ## Calibration  
 
@@ -73,6 +78,10 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 | Target white point | D65 (6500 K)       |
 | Target gamma       | 2.2                |
 
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
+
 ## Downloads
 
 ### ICC/ICM profile
@@ -81,6 +90,11 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 ### Reports  
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/hp-probook-450-g7/Measurement_Report_BOE0852.html)
 - [Verification report (PDF)](Measurement_Report_BOE0852.pdf)
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
+
 
 ## Brightness response curve
 

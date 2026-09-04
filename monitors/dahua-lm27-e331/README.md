@@ -1,3 +1,5 @@
+<!-- PAGE_STATUS: OK -->
+
 # Dahua DHI-LM27-E331A   
 
 Consumer 27-inch IPS gaming monitor featuring a PFS E-LED backlight.
@@ -24,28 +26,32 @@ Official product page:  <https://www.dahuasecurity.com/mena/products/All-Product
 
 ## Specifications  
 
-| Parameter          | Value           |
-| ------------------ | --------------- |
-| Screen size        | 27"             |
-| Panel type         | IPS             |
-| Aspect Ratio       | 16:9            |
-| Resolution         | 2560 × 1440     |
-| Backlight          | E-LED WCG (PFS) |
-| Refresh rate       | 180 Hz          |
-| Typical brightness | 300 nits        |
-| Contrast Ratio     | 1000:1          |
-| Viewing Angle(H/V) | 178°(H)/178°(V) |
-| Response time      | 1 ms            |
+| Parameter           | Value           |
+| ------------------- | --------------- |
+| Screen size         | 27"             |
+| Panel type          | IPS             |
+| Aspect ratio        | 16:9            |
+| Resolution          | 2560 × 1440     |
+| Backlight           | E-LED WCG (PFS) |
+| Refresh rate        | 180 Hz          |
+| Typical brightness  | 300 nits        |
+| Contrast ratio      | 1000:1          |
+| Viewing angle (H/V) | 178°(H)/178°(V) |
+| Response time       | 1 ms            |
 
 
 ### Color characteristics  
 
-- Wide Color Gamut (WCG) declared by manufacturer  
+- Wide color gamut (WCG) declared by manufacturer  
 - Known color gamut:  
     - sRGB: ~ 99%  
     - NTSC: 85%  
     - DCI-P3: Not specified  
 - Color depth: 8 bit + FRC  
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
 
 ## Calibration  
 
@@ -86,7 +92,11 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
     - MPRT: OFF  
 - Advanced menu:  
     - HDR: OFF  
-- Refresh Rate: 120 Hz fixed
+- Refresh rate: 120 Hz fixed
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
 
 ## Downloads
 
@@ -101,7 +111,13 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/monitors/dahua-lm27-e331/Measurement_Report_DHI-LM27-E331.html)
 - [Verification report (PDF)](Measurement_Report_DHI-LM27-E331.pdf)
 
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
+
 ## Brightness response curve  
+
+Pre-calibration measurement with [DisplayCal interactive mode](https://displaycal.net/#settings_calibration)  
 
 > [!NOTE]
 > Recommended luminance levels:
@@ -131,5 +147,5 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 |        100         |        351        |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>

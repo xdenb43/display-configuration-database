@@ -28,25 +28,25 @@ Official product page: [URL]
 | ------------------ | ----- |
 | Screen size        |       |
 | Panel type         |       |
-| Aspect Ratio       |       |
+| Aspect ratio       |       |
 | Resolution         |       |
 | Backlight          |       |
 | Refresh rate       |       |
 | Typical brightness |       |
-| Contrast Ratio     |       |
-| Viewing Angle(H/V) |       |
+| Contrast ratio     |       |
+| Viewing angle(H/V) |       |
 | Response time      |       |
 
 ### Color characteristics
 
 ** Gamut coverage**
-|       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
-| :---------------------: | :------------------------: | :-------------------------------: |
-| Wide Color gammut (WDC) |     :heavy_check_mark:     |            :question:             |
-|          sRGB           |         ~ 97-100%          |            :question:             |
-|          NTSC           |             -              |            :question:             |
-|         DCI-P3          |          ~ 66-70%          |            :question:             |
-|        Adobe-RGB        |             -              |            :question:             |
+|      Color gamut       | Declared/known<br>coverage | Calibrated and measured<br>coverage |
+| :--------------------: | :------------------------: | :---------------------------------: |
+| Wide color gamut (WDC) |     :heavy_check_mark:     |             :question:              |
+|          sRGB          |         ~ 97-100%          |             :question:              |
+|          NTSC          |             -              |             :question:              |
+|         DCI-P3         |          ~ 66-70%          |             :question:              |
+|       Adobe-RGB        |             -              |             :question:              |
 
 Color depth: X bit    
 

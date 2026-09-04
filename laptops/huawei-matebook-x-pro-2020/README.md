@@ -30,30 +30,30 @@ Official product page:  <https://consumer.huawei.com/ie/laptops/matebook-x-pro-2
 | ------------------ | --------------- |
 | Screen size        | 13.9"           |
 | Panel type         | LTPS            |
-| Aspect Ratio       | 3:2             |
+| Aspect ratio       | 3:2             |
 | Resolution         | 3000 × 2000     |
 | Backlight          | LED             |
 | Refresh rate       | 60 Hz           |
 | Typical brightness | 450 nits        |
-| Contrast Ratio     | 1500:1          |
-| Viewing Angle(H/V) | 178°(H)/178°(V) |
+| Contrast ratio     | 1500:1          |
+| Viewing angle(H/V) | 178°(H)/178°(V) |
 | Response time      | ~31 ms          |
 
 ### Color characteristics  
 
-** Gamut coverage**
-|       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
-| :---------------------: | :------------------------: | :-------------------------------: |
-| Wide Color gammut (WDC) |     :heavy_check_mark:     |        :heavy_check_mark:         |
-|          sRGB           |         ~ 97-100%          |               96.9%               |
-|          NTSC           |             -              |                 -                 |
-|         DCI-P3          |          ~ 66-70%          |               70.8%               |
-|        Adobe-RGB        |             -              |              67.37%               |
+**Gamut coverage**
+|      Color gamut       | Declared/known<br>coverage | Calibrated and measured<br>coverage |
+| :--------------------: | :------------------------: | :---------------------------------: |
+| Wide color gamut (WDC) |     :heavy_check_mark:     |         :heavy_check_mark:          |
+|          sRGB          |         ~ 97-100%          |                96.9%                |
+|          NTSC          |             -              |                  -                  |
+|         DCI-P3         |          ~ 66-70%          |                70.8%                |
+|       Adobe-RGB        |             -              |               67.37%                |
 
 Color depth: 8 bit    
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
 
 ## Calibration  
@@ -81,7 +81,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - Display Manager -> Color Temperature: Default
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
 
 ## Downloads
@@ -98,7 +98,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - [Verification report (PDF)](Measurement_Report_LPM139M422A.pdf)
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
 
 ## Brightness response curve  
@@ -134,5 +134,5 @@ Post-calibration measurement with [ArgyllCMS/spotread](https://www.argyllcms.com
 |        100         |        572        |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
