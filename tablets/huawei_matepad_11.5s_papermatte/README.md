@@ -1,6 +1,6 @@
 <!-- PAGE_STATUS: OK -->
 
-# Huawei MatePad 11.5s PapperMate (TGR-W09) 
+# Huawei MatePad 11.5s PaperMatte (TGR-W09) 
 
 Huawei MatePad 11.5S PaperMatte features an **IPS LCD display with a 2800 × 1840 resolution, P3 wide color gamut and a PaperMatte anti-glare display surface.**
 Although IPS LCD displays generally do not use emissive pixels like OLED, **display luminance, viewing conditions and brightness modulation may still affect visual comfort** during prolonged use.

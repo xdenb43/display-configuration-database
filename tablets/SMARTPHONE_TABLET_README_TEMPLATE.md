@@ -13,7 +13,7 @@ Official product page: [URL]
 - [Specifications](#specifications)
   - [Color characteristics](#color-characteristics)
 - [Daily use configuration](#daily-use-configuration)
-  - [Display settings](#display-settings)
+  - [Recommended display settings (eye comfort)](#recommended-display-settings-eye-comfort)
   - [Accessibility — Display & Text Size](#accessibility--display--text-size)
   - [Accessibility — Motion](#accessibility--motion)
 - [Notes](#notes)
@@ -54,7 +54,7 @@ Objective: long-term daily use with maximum visual comfort while maintaining rea
 
 Priority: **long-term visual comfort → readability → luminance control → natural and stable image reproduction → other parameters.**
 
-### Display settings
+### Recommended display settings (eye comfort)
 
 | Parameter                      | Value | Reason |
 | ------------------------------ | ----- | ------ |
