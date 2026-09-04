@@ -52,6 +52,8 @@ Official product page:  <https://consumer.huawei.com/ie/laptops/matebook-x-pro-2
 |         DCI-P3          |          ~ 66-70%          |            :question:             |
 |        Adobe-RGB        |             -              |            :question:             |
 
+Color depth: 8 bit    
+
 ## Calibration  
 
 Calibration objective: **Visual comfort with reduced eye strain during prolonged use.**  
