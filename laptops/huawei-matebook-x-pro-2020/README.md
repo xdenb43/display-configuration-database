@@ -1,4 +1,4 @@
-<!-- PAGE_STATUS: OK -->
+<!-- PAGE_STATUS: DRAFT -->
 
 # Huawei Matebook X Pro 2020 (MACHC-WAX9)   
 
@@ -43,12 +43,14 @@ Official product page:  <https://consumer.huawei.com/ie/laptops/matebook-x-pro-2
 
 ### Color characteristics  
 
-- Wide Color Gamut (WCG) declared by manufacturer  
-- Known color gamut:  
-    - sRGB: ~ 97–100%  
-    - NTSC: Not specified  
-    - DCI-P3: ~ 66–70%   
-- Color depth: 8 bit    
+** Gamut coverage**
+|       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
+| :---------------------: | :------------------------: | :-------------------------------: |
+| Wide Color gammut (WDC) |     :heavy_check_mark:     |            :question:             |
+|          sRGB           |         ~ 97-100%          |            :question:             |
+|          NTSC           |             -              |            :question:             |
+|         DCI-P3          |          ~ 66-70%          |            :question:             |
+|        Adobe-RGB        |             -              |            :question:             |
 
 ## Calibration  
 
@@ -57,11 +59,11 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 ### Environment and targets
 
 **Calibration environment**
-| Parameter        | Value              |
-| ---------------- | ------------------ |
-| Calibration date | 2026-08-23         |
-| Instrument       | Spyder X           |
-| Software         | DisplayCal 3.8.9.3 |
+| Parameter        | Value                                 |
+| ---------------- | ------------------------------------- |
+| Calibration date | 2026-09-03                            |
+| Instrument       | Spyder X                              |
+| Software         | DisplayCal 3.8.9.3<br>ArgyllCMS 3.5.0 |
 
 
 **Calibration target**
@@ -69,12 +71,9 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 | ------------------ | ------------ |
 | Target white point | D65 (6500 K) |
 | Target gamma       | 2.2          |
-| Target luminance   | 120 cd/m²    |
 
 ### OSD settings  
 
-- Display menu:  
-    - Brightness: 40  
 - Display Manager -> Color Temperature: Default
 
 ## Downloads
@@ -91,6 +90,8 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - [Verification report (PDF)](Measurement_Report_LPM139M422A.pdf)
 
 ## Brightness response curve  
+
+Measured after calibration with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
 
 > [!NOTE]
 > Recommended luminance levels:
