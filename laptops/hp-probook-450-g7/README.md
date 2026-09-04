@@ -2,9 +2,7 @@
 
 # HP ProBook 450 G7    
 
-Display panel: **BOE0852**
-
-15.6-inch 16:9 IPS display with a BOE0852 panel and standard White LED backlight.
+15.6-inch 16:9 IPS display with a **BOE0852** panel and standard White LED backlight.
 
 Calibration optimized for visual comfort using Spyder X and DisplayCAL.
 

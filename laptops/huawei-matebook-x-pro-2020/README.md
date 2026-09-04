@@ -2,9 +2,7 @@
 
 # Huawei Matebook X Pro 2020 (MACHC-WAX9)   
 
-Display panel: **JDI LPM139M422A**
-
-13.9-inch 3:2 LTPS display with a JDI LPM139M422A panel and wide-gamut LED backlight.
+13.9-inch 3:2 LTPS display with a **JDI LPM139M422A** panel and wide-gamut LED backlight.
 
 Calibration optimized for visual comfort using Spyder X and DisplayCAL.
 

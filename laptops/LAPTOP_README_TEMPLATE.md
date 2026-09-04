@@ -2,9 +2,7 @@
 
 # [Device Name]
 
-Display panel: $PANEL
-
-[Short description of the device and display.]
+[Short description of the device and display $PANEL.]
 
 Official product page: [URL]
 
