@@ -26,16 +26,16 @@ Official product page: [URL]
 | ------------------- | ----- |
 | Screen size         |       |
 | Panel type          |       |
-| Aspect Ratio        |       |
+| Aspect ratio        |       |
 | Resolution          |       |
-| Pixel Density       |       |
+| Pixel density       |       |
 | Backlight           |       |
 | Refresh rate        |       |
-| PWM Dimming         |       |
-| Touch Sampling Rate |       |
-| Color Depth         |       |
-| Color Gamut         |       |
-| Contrast Ratio      |       |
+| PWM dimming         |       |
+| Touch sampling rate |       |
+| Color depth         |       |
+| Color gamut         |       |
+| Contrast ratio      |       |
 
 ### Color characteristics
 
@@ -44,9 +44,13 @@ Official product page: [URL]
 - Color depth
   - [Description]
 
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
+
 ## Daily use configuration
 
-Objective: Long-term daily use with maximum visual comfort while maintaining readability and natural display reproduction.
+Objective: long-term daily use with maximum visual comfort while maintaining readability and natural display reproduction.
 
 Priority: **long-term visual comfort → readability → luminance control → natural and stable image reproduction → other parameters.**
 
@@ -55,43 +59,47 @@ Priority: **long-term visual comfort → readability → luminance control → n
 | Parameter                      | Value | Reason |
 | ------------------------------ | ----- | ------ |
 | Brightness                     |       |        |
-| Display Appearance / Dark Mode |       |        |
-| Eye Comfort / Eye Protection   |       |        |
-| Flicker Reduction              |       |        |
-| Font Size                      |       |        |
-| Font Weight                    |       |        |
-| Color Mode                     |       |        |
-| Color Temperature              |       |        |
-| Screen Resolution              |       |        |
-| Refresh Rate                   |       |        |
+| Display appearance / dark mode |       |        |
+| Eye comfort / eye protection   |       |        |
+| Flicker reduction              |       |        |
+| Font size                      |       |        |
+| Font weight                    |       |        |
+| Color mode                     |       |        |
+| Color temperature              |       |        |
+| Screen resolution              |       |        |
+| Refresh rate                   |       |        |
 
-### Accessibility — Display & Text Size
+### Accessibility — display & text size
 
 | Parameter                   | Value | Reason |
 | --------------------------- | ----- | ------ |
-| Bold Text                   |       |        |
-| Larger Text                 |       |        |
-| Button Shapes               |       |        |
-| On/Off Labels               |       |        |
-| Reduce Transparency         |       |        |
-| Increase Contrast           |       |        |
-| Differentiate Without Color |       |        |
-| Prefer Horizontal Text      |       |        |
-| Smart Invert                |       |        |
-| Classic Invert              |       |        |
-| Color Filters               |       |        |
-| Reduce White Point          |       |        |
+| Bold text                   |       |        |
+| Larger text                 |       |        |
+| Button shapes               |       |        |
+| On/Off labels               |       |        |
+| Reduce transparency         |       |        |
+| Increase contrast           |       |        |
+| Differentiate without color |       |        |
+| Prefer horizontal text      |       |        |
+| Smart invert                |       |        |
+| Classic invert              |       |        |
+| Color filters               |       |        |
+| Reduce white point          |       |        |
 
-### Accessibility — Motion
+### Accessibility — motion
 
 | Parameter                  | Value | Reason |
 | -------------------------- | ----- | ------ |
-| Reduce Motion              |       |        |
-| Dim Flashing Lights        |       |        |
-| Auto-Play Animated Images  |       |        |
-| Auto-Play Video Previews   |       |        |
-| Message Effects            |       |        |
-| Prefer Non-Blinking Cursor |       |        |
+| Reduce motion              |       |        |
+| Dim flashing lights        |       |        |
+| Auto-play animated images  |       |        |
+| Auto-play video previews   |       |        |
+| Message effects            |       |        |
+| Prefer non-blinking cursor |       |        |
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
 
 ## Notes
 
@@ -110,5 +118,5 @@ Unless otherwise stated, all documentation is released under the MIT License.
 Display measurements and configuration recommendations are provided for educational and research purposes.
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
