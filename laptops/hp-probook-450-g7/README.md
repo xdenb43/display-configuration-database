@@ -83,9 +83,9 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/hp-probook-450-g7/Measurement_Report_BOE0852.html)
 - [Verification report (PDF)](Measurement_Report_BOE0852.pdf)
 
-## Brightness response curve (calibrated display)  
+## Brightness response curve
 
-measured with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
+Measured after calibration with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
 
 > [!NOTE]
 > Recommended luminance levels:
