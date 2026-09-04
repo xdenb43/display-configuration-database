@@ -60,5 +60,5 @@ The priority here is: **long-term visual comfort → readability → luminance c
 | Smart Resolution (Умное разрешение)          | OFF (Выкл.)                      | Disabling Smart Resolution provides noticeably smoother and more responsive system operation on this device. Since the tablet already operates at its native **2000 × 1200** resolution, adaptive resolution management provides no demonstrated visual-comfort benefit and may introduce unnecessary changes in rendering behavior. |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Top</a>
+  <a href="#table-of-contents">⬆ ToC</a>
 </p>

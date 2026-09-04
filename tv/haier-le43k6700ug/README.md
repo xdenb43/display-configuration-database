@@ -88,5 +88,5 @@ Calibration objective: **SDR Rec. 709** with _universal_ luminance **140 cd/m²*
 - Online 4K playback may be sluggish  
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Top</a>
+  <a href="#table-of-contents">⬆ ToC</a>
 </p>

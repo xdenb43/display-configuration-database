@@ -61,5 +61,5 @@ The priority here is: **long-term visual comfort → readability → luminance c
 | Refresh Rate (Частота обновления)            | 60 Hz — Fixed (Фиксированная)    | Eliminates automatic refresh-rate transitions and provides stable temporal behavior. The fixed 60 Hz configuration was subjectively more comfortable for you than Dynamic mode.                                                                               |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Top</a>
+  <a href="#table-of-contents">⬆ ToC</a>
 </p>

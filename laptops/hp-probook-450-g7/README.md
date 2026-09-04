@@ -116,5 +116,5 @@ Measured after calibration with [ArgyllCMS/spotread](https://www.argyllcms.com/d
 |        100         |        244        |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Top</a>
+  <a href="#table-of-contents">⬆ ToC</a>
 </p>

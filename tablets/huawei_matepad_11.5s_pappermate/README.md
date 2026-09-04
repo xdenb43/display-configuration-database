@@ -65,5 +65,5 @@ The priority here is: **long-term visual comfort → readability → luminance c
 
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Top</a>
+  <a href="#table-of-contents">⬆ ToC</a>
 </p>

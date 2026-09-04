@@ -61,5 +61,5 @@ The priority here is: **visual comfort → readability → luminance control →
 | Refresh Rate (Скорость обновления экрана)    | Auto (Авто)                      | Allows the device to adapt the refresh rate according to the current workload and application. Automatic refresh-rate changes were subjectively comfortable for you, while Smart Resolution was the setting whose dynamic behavior reduced perceived smoothness. |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Top</a>
+  <a href="#table-of-contents">⬆ ToC</a>
 </p>
