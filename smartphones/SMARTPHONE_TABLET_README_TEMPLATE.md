@@ -76,7 +76,7 @@ Priority: **long-term visual comfort → readability → luminance control → n
 | Bold text                   |       |        |
 | Larger text                 |       |        |
 | Button shapes               |       |        |
-| On/Off labels               |       |        |
+| On/off labels               |       |        |
 | Reduce transparency         |       |        |
 | Increase contrast           |       |        |
 | Differentiate without color |       |        |
