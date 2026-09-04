@@ -46,11 +46,11 @@ Official product page:  <https://consumer.huawei.com/ie/laptops/matebook-x-pro-2
 ** Gamut coverage**
 |       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
 | :---------------------: | :------------------------: | :-------------------------------: |
-| Wide Color gammut (WDC) |     :heavy_check_mark:     |            :question:             |
-|          sRGB           |         ~ 97-100%          |            :question:             |
-|          NTSC           |             -              |            :question:             |
-|         DCI-P3          |          ~ 66-70%          |            :question:             |
-|        Adobe-RGB        |             -              |            :question:             |
+| Wide Color gammut (WDC) |     :heavy_check_mark:     |        :heavy_check_mark:         |
+|          sRGB           |         ~ 97-100%          |               96.9%               |
+|          NTSC           |             -              |                 -                 |
+|         DCI-P3          |          ~ 66-70%          |               70.8%               |
+|        Adobe-RGB        |             -              |              67.37%               |
 
 Color depth: 8 bit    
 
