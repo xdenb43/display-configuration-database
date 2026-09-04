@@ -1,6 +1,6 @@
 # Haier LE43K6700UG   
 
-A 43-inch 4K UHD LED television with a native resolution of 3840×2160, a 60 Hz refresh rate and HDR10 support
+A 43-inch 4K UHD LED television with a native resolution of 3840×2160, a 60 Hz refresh rate and HDR10 support.
 
 Calibration optimized for **movies** using Spyder X and [HCFR 2019](https://sourceforge.net/projects/hcfr-2019/).
 
@@ -38,7 +38,7 @@ Official product page: <https://haieronline.ru/catalog/electronics/tvs/le43k6700
 Not specified
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Toс</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
 
 ## Calibration  
@@ -86,7 +86,7 @@ Calibration objective: **SDR Rec. 709** with _universal_ luminance **140 cd/m²*
     - PC mode: Off
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Toс</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
 
 ## Additional notes
@@ -96,5 +96,5 @@ Calibration objective: **SDR Rec. 709** with _universal_ luminance **140 cd/m²*
 - Online 4K playback may be sluggish  
 
 <p align="right">
-  <a href="#table-of-contents">⬆ Toс</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>
