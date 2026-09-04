@@ -61,11 +61,11 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 ### Environment and targets
 
 **Calibration environment**
-| Parameter        | Value                                |
-| ---------------- | ------------------------------------ |
-| Calibration date | 2026-09-03                           |
-| Instrument       | Spyder X                             |
-| Software         | DisplayCal 3.8.9.3 + ArgyllCMS 3.5.0 |
+| Parameter        | Value                                 |
+| ---------------- | ------------------------------------- |
+| Calibration date | 2026-09-03                            |
+| Instrument       | Spyder X                              |
+| Software         | DisplayCal 3.8.9.3<br>ArgyllCMS 3.5.0 |
 
 
 **Calibration target**
@@ -83,7 +83,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/hp-probook-450-g7/Measurement_Report_BOE0852.html)
 - [Verification report (PDF)](Measurement_Report_BOE0852.pdf)
 
-## Brightness response curve   
+## Brightness response curve (calibrated display)  
 
 measured with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
 
