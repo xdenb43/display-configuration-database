@@ -44,13 +44,14 @@ Official product page: <https://www.hp.com/us-en/laptops/business/probook-400/pr
 
 ### Color characteristics  
 
-|       Color gamut       | Declared/Known | Calibrated & Measured |
-| :---------------------: | :------------: | :-------------------: |
-| Wide Color gammut (WDC) |       -        |           -           |
-|          sRGB           |     ~ 58%      |        61.66%         |
-|          NTSC           |     ~ 43%      |           -           |
-|         DCI-P3          |     ~ 39%      |        43.99%         |
-|        Adobe-RGB        |       -        |        42.79%         |
+** Gamut coverage**
+|       Color gamut       | Declared/Known<br>coverage | Calibrated & Measured<br>coverage |
+| :---------------------: | :------------------------: | :-------------------------------: |
+| Wide Color gammut (WDC) |             -              |                 -                 |
+|          sRGB           |           ~ 58%            |              61.66%               |
+|          NTSC           |           ~ 43%            |                 -                 |
+|         DCI-P3          |           ~ 39%            |              43.99%               |
+|        Adobe-RGB        |             -              |              42.79%               |
    
 Color depth: 8 bit    
 
