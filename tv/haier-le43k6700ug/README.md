@@ -19,23 +19,27 @@ Official product page: <https://haieronline.ru/catalog/electronics/tvs/le43k6700
 
 ## Specifications  
 
-| Parameter          | Value               |
-| ------------------ | ------------------- |
-| Screen size        | 43"                 |
-| Panel type         | VA (but variable)   |
-| Aspect Ratio       | 16:9                |
-| Resolution         | 4K UHD 3840 x 2160  |
-| Backlight          | Direct LED          |
-| Refresh rate       | 60 Hz               |
-| Typical brightness | 250 nits (typ.)     |
-| Contrast Ratio     | 4000:1 (typ.)       |
-| Viewing Angle(H/V) | 176°(H)/176°(V)     |
-| Response time      | 8 ms (GtG, approx.) |
+| Parameter           | Value               |
+| ------------------- | ------------------- |
+| Screen size         | 43"                 |
+| Panel type          | VA (but variable)   |
+| Aspect ratio        | 16:9                |
+| Resolution          | 4K UHD 3840 x 2160  |
+| Backlight           | Direct LED          |
+| Refresh rate        | 60 Hz               |
+| Typical brightness  | 250 nits (typ.)     |
+| Contrast ratio      | 4000:1 (typ.)       |
+| Viewing angle (H/V) | 176°(H)/176°(V)     |
+| Response time       | 8 ms (GtG, approx.) |
 
 
 ### Color characteristics
 
 Not specified
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toс</a>
+</p>
 
 ## Calibration  
 
@@ -67,26 +71,30 @@ Calibration objective: **SDR Rec. 709** with _universal_ luminance **140 cd/m²*
     - Saturation: 45
     - Tint: 0
     - Sharpness: 8
-    - Gamma: Middle 
-- Color Temperature:
+    - Gamma: middle 
+- Color temperature:
     - Red: +22
     - Green: 0
     - Blue: -48
-- Picture Processing:
-    - Noise Reduction: Off
-    - MPEG Noise Reduction: Off
+- Picture processing:
+    - Noise reduction: Off
+    - MPEG noise reduction: Off
     - Luma: Off
-    - DI Film Mode: Auto
-    - Blue Stretch: Off
-    - Game Mode: Off
-    - PC Mode: Off
+    - DI film mode: Auto
+    - Blue stretch: Off
+    - Game mode: Off
+    - PC mode: Off
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toс</a>
+</p>
 
 ## Additional notes
 
 - An alternative launcher improves UI responsiveness  
-- Factory white point: ~9700 K  
+- Factory white point: ~ **9700K**  
 - Online 4K playback may be sluggish  
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toс</a>
 </p>
