@@ -128,5 +128,5 @@ Post-calibration measurement with [ArgyllCMS/spotread](https://www.argyllcms.com
 |        100         |        244        |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toc</a>
 </p>

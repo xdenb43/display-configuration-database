@@ -39,7 +39,7 @@ Official product page: [URL]
 
 ### Color characteristics
 
-** Gamut coverage**
+**Gamut coverage**
 |      Color gamut       | Declared/known<br>coverage | Calibrated and measured<br>coverage |
 | :--------------------: | :------------------------: | :---------------------------------: |
 | Wide color gamut (WDC) |     :heavy_check_mark:     |             :question:              |
@@ -49,6 +49,10 @@ Official product page: [URL]
 |       Adobe-RGB        |             -              |             :question:              |
 
 Color depth: X bit    
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
 
 ## Calibration  
 
@@ -74,6 +78,10 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 
 - Display Manager -> Color Temperature: Default
 
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
+
 ## Downloads
 
 > [!IMPORTANT]  
@@ -86,6 +94,10 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 ### Reports  
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/$DEVICE/Measurement_Report_$PANEL.html)
 - [Verification report (PDF)](Measurement_Report_$PANEL.pdf)
+
+<p align="right">
+  <a href="#table-of-contents">⬆ Toc</a>
+</p>
 
 ## Brightness response curve  
 
@@ -116,5 +128,5 @@ Post-calibration measurement with [ArgyllCMS/spotread](https://www.argyllcms.com
 |         100        |        584        |
 
 <p align="right">
-  <a href="#table-of-contents">⬆ ToC</a>
+  <a href="#table-of-contents">⬆ Toс</a>
 </p>
