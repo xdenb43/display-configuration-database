@@ -86,7 +86,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 
 ## Brightness response curve
 
-Measured after calibration with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
+Post-calibration measurement with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
 
 > [!NOTE]
 > Recommended luminance levels:
