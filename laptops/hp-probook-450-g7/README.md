@@ -1,4 +1,4 @@
-<!-- PAGE_STATUS: DRAFT -->
+<!-- PAGE_STATUS: OK -->
 
 # HP ProBook 450 G7    
 
@@ -44,11 +44,15 @@ Official product page: <https://www.hp.com/us-en/laptops/business/probook-400/pr
 
 ### Color characteristics  
 
-- Сolor gamut:  
-    - sRGB: ~ 58%  
-    - NTSC: ~ 43% 
-    - DCI-P3: ~ 39%   
-- Color depth: 8 bit    
+| Color gamut             | Declared/Known | Calibrated & Measured |
+| ----------------------- | -------------- | --------------------- |
+| Wide Color gammut (WDC) | -              | -                     |
+| sRGB                    | ~ 58%          | 61.66 %               |
+| NTSC                    | ~ 43%          | -                     |
+| DCI-P3                  | ~ 39%          | 43.99%                |
+| Adobe-RGB               | -              | 42,79%                |
+   
+Color depth: 8 bit    
 
 ## Calibration  
 
@@ -79,7 +83,9 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 - [Verification report (HTML)](https://xdenb43.github.io/display-configuration-database/laptops/hp-probook-450-g7/Measurement_Report_BOE0852.html)
 - [Verification report (PDF)](Measurement_Report_BOE0852.pdf)
 
-## Brightness response curve [^1]  
+## Brightness response curve   
+
+measured with [ArgyllCMS/spotread](https://www.argyllcms.com/doc/spotread.html)
 
 > [!NOTE]
 > Recommended luminance levels:
@@ -88,8 +94,6 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 > - Evening: 100–120 cd/m²
 > - Daylight: 120–140 cd/m²
 > - Bright daylight: 140–160 cd/m²
-
-[^1]: measured with **spotread**
 
 ![Brightness vs. Luminance](brightness_vs_luminance_BOE0852.png) 
 
