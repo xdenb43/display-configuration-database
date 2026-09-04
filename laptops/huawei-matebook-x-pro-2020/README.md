@@ -1,4 +1,4 @@
-<!-- PAGE_STATUS: DRAFT -->
+<!-- PAGE_STATUS: OK -->
 
 # Huawei Matebook X Pro 2020 (MACHC-WAX9)   
 
@@ -63,7 +63,7 @@ Calibration objective: **Visual comfort with reduced eye strain during prolonged
 **Calibration environment**
 | Parameter        | Value                                 |
 | ---------------- | ------------------------------------- |
-| Calibration date | 2026-09-03                            |
+| Calibration date | 2026-09-04                            |
 | Instrument       | Spyder X                              |
 | Software         | DisplayCal 3.8.9.3<br>ArgyllCMS 3.5.0 |
 
@@ -107,17 +107,21 @@ Post-calibration measurement with [ArgyllCMS/spotread](https://www.argyllcms.com
 
 | OSD Brightness (%) | Luminance (cd/m²) |
 | :----------------: | :---------------: |
-|         0          |        7          |
+|         0          |         7         |
 |         10         |        21         |
-|         20         |        41         |
-|         30         |        75         |
-|      -> 40 <-      |     -> 118 <-     |
-|         50         |        176        |
-|         60         |        244        |
-|         70         |        317        |
-|         80         |        400        |
-|         90         |        488        |
-|         100        |        584        |
+|         20         |        40         |
+|         30         |        73         |
+|      -> 32 <-      |     -> 80 <-      |
+|      -> 37 <-      |     -> 101 <-     |
+|      -> 40 <-      |     -> 116 <-     |
+|      -> 41 <-      |     -> 120 <-     |
+|      -> 45 <-      |     -> 144 <-     |
+|         50         |        173        |
+|         60         |        239        |
+|         70         |        310        |
+|         80         |        391        |
+|         90         |        478        |
+|        100         |        572        |
 
 <p align="right">
   <a href="#table-of-contents">⬆ ToC</a>
